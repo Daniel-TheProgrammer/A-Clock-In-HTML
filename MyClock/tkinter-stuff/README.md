@@ -1,2 +1,2 @@
-# tkinter stuff
+# t
  Layout of desktop
